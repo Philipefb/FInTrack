@@ -20,6 +20,15 @@ Aplicativo Android para controle de despesas pessoais.
 
 ## Screenshots
 
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/980652ab-92b9-4edb-9070-d8e95ae4a596
+width="30%" />
+  <img src=https://github.com/user-attachments/assets/2d6ac59e-3637-418e-a853-dee4f8c747f0 width="30%" </
+</p>
+
+
+
+
 [Adicione screenshots do app aqui]
 
 ## Como usar
