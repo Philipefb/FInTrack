@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="category_icons">
+        <item>@drawable/ic_menu</item>
+        <item>@drawable/casa</item>
+        <item>@drawable/heart</item>
+        <item>@drawable/renew</item>
+        <item>@drawable/ic_add</item>
+    </array>
+</resources>

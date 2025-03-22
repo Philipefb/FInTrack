@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DarkTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/green</item>
+        <item name="boxBackgroundColor">@color/dark_gray</item>
+        <item name="android:textColorHint">@color/gray</item>
+        <item name="hintTextColor">@color/green</item>
+    </style>
+</resources> 
