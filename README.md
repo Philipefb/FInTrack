@@ -27,10 +27,6 @@ width="30%" />
 </p>
 
 
-
-
-[Adicione screenshots do app aqui]
-
 ## Como usar
 
 1. Crie categorias de despesa
